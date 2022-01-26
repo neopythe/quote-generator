@@ -9,8 +9,8 @@ let apiQuotes = [];
 
 // show loading
 function loading() {
-  loader.hidden = false;
   quoteContainer.hidden = true;
+  loader.hidden = false;
 }
 
 // hide loading
